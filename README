@@ -1,0 +1,10 @@
+Download chrome driver
+
+https://chromedriver.chromium.org/downloads
+Extract & place into C drive
+Copy the path and paste into python  program
+
+Find the element id according to your webpage & place into program
+
+
+
